@@ -1,0 +1,21 @@
+# Ambiente Virtual
+.venv/
+
+# Caches e arquivos temporários Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de build e distribuição (PyInstaller)
+build/
+dist/
+*.spec
+
+# Arquivos gerados (exceto os exemplos)
+sorted_output.docx
+final_output.docx
+*.zip
+
+# Arquivos específicos do S.O.
+.DS_Store
+Thumbs.db
